@@ -8,5 +8,6 @@ public class Test {
         System.out.println("git使用第二行");
         System.out.println("local更新第二行");
         System.out.println("local更新第666行");
+        System.out.println("local更新第7777行");
     }
 }
