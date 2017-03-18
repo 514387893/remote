@@ -5,7 +5,7 @@ package com.test;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("git使用第一行");
-        System.out.println("local更新232323");
+        System.out.println("git使用");
+        System.out.println("local更新第二行");
     }
 }
