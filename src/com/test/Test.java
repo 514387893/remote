@@ -5,7 +5,8 @@ package com.test;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("git使用qwwqq");
+        System.out.println("git使用0");
+
         System.out.println("local更新");
     }
 }
